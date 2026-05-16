@@ -10,7 +10,7 @@ An end-to-end Machine Learning application that predicts annual medical insuranc
 ---
 
 ## 🚀 Live Demo
-**[Launch the Interactive Web App!]()**  
+**[Launch the Interactive Web App!](https://mlpredictor-1shamay1.streamlit.app)**  
 ---
 
 ## 📸 Project Preview

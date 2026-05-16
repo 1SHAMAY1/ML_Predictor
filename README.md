@@ -36,7 +36,7 @@ This project uses **Data Science** fundamentals to extract insights from the "Me
 ## 🏃 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/1SHAMAy1/ML_Predictor.git
+   git clone https://github.com/1SHAMAY1/ML_Predictor.git
    ```
 2. Install dependencies:
    ```bash

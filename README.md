@@ -14,6 +14,7 @@ An end-to-end Machine Learning application that predicts annual medical insuranc
 ---
 
 ## 📸 Project Preview
+<img width="1896" height="1003" alt="image" src="https://github.com/user-attachments/assets/3e4b82b2-3cac-4cfb-bf2f-a4cca5d87b43" />
 
 
 ---
